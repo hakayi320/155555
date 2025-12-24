@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Neuro-XAI Explorer",
+  "description": "An advanced medical AI dashboard for exploring Explainable AI (XAI) techniques in autism diagnosis using fMRI data, based on the eClinicalMedicine 2025 ABIDE study.",
+  "requestFramePermissions": []
+}
